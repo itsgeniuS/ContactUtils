@@ -58,7 +58,7 @@ class MainActivity : SuperCompatActivity<ActivityMainBinding, MainViewModel>(), 
         binding.noPermissionsLayout.visibility = View.VISIBLE
 
         /*This dialog is shown for the first time when user installs the app*/
-        if (dataStorage.getBoolean(Keys.IS_INFO_SHOWN)) {
+        if (!dataStorage.getBoolean(Keys.IS_INFO_SHOWN)) {
             InfoDialog(object : InfoDialog.InfoDialogCallback {
                 override fun onContinue() {
                     dataStorage.saveBoolean(Keys.IS_INFO_SHOWN, true)
