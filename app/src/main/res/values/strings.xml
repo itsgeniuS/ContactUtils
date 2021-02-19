@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">Contact Utils</string>
+    <string name="title_permissions_required">Permissions Required!</string>
+    <string name="content_permissions_contact">In order to assist you with calling feature, Contact Util needs your permission to access your contacts.</string>
+    <string name="continue_">Continue</string>
+    <string name="info_contact_permission_required">In order to assist you with calling feature, Contact Util needs your permission to access your contacts.</string>
+    <string name="info_failed_to_load_contacts">Cannot load contacts without permissions!</string>
+    <string name="info_grant_permissions_in_settings">Grant permissions in settings!</string>
+    <string name="info_permissions_required">permissions Required!</string>
+    <string name="ok">OK</string>
+    <string name="info_no_contacts_avail">No contacts found!</string>
+    <string name="title_contacts_list">Contacts List</string>
+    <string name="choose_contacts">Select contact to get popup for call alert.</string>
+    <string name="title_welcome_app">Welcome to contact utils!</string>
+    <string name="content_welcome_app">Now you can set call alert for your chosen numbers with ease. Provide overlay permission to get alert window while incoming call</string>
+    <string name="btn_provide">Provide</string>
+    <string name="grant_permissions">Grant Permissions</string>
+    <string name="info_allow_app_to_autostart">AutoStart permission required!</string>
+    <string name="info_auto_start_content">To show caller dialog when app is closed we need autostart permission!</string>
+    <string name="incoming_call">Incoming Call</string>
+    <string name="title_note">NOTE:</string>
+    <string name="note_content_1">1. This app only works when app is in foreground.</string>
+    <string name="note_content_2">2. App will show popup like view, when a call is incoming from selected contact</string>
+</resources>

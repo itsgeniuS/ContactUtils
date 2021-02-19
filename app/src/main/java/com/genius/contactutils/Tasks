@@ -1,0 +1,20 @@
+Task Name:ContactUtils
+
+Duration:  4 to 6hrs
+
+Description:
+1.) In home screen, Read the user contacts from phone and display in the list
+2.) Each contact item has a select option(tick) to store the contact number in locally
+3.) Whenever you get a call from the selected contact number we need to display the below popup with name, number(no need profile picture).
+4.) If you un select the number popup don't need to display.
+
+Follow:
+
+Android
+MVVM Or MVP
+Shared Preference
+DataBinding
+Kotlin or Java
+Constrainlayout
+
+
